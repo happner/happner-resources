@@ -1,0 +1,24 @@
+{
+  "name": "happner-resources",
+  "version": "0.0.1",
+  "description": "Resources container",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/happner/happner-resources"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/happner/happner-resources/issues"
+  },
+  "homepage": "https://github.com/happner/happner-resources",
+  "devDependencies": {
+    "chai": "^2.2.0",
+    "mocha": "^2.2.4",
+    "should": "^7.1.0",
+    "when": "^3.7.3"
+  },
+  "dependencies": {
+    "bower": "^1.5.2"
+  }
+}
