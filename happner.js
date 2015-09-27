@@ -1,5 +1,5 @@
 module.exports = {
-	"id":"happner-resources",
+	"name":"happner-resources",
 	"autoload":{
 		"component":{
 			schema:{
