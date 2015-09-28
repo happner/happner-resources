@@ -1,7 +1,6 @@
 module.exports = {
-  // "name":"happner-resources",
   configs: {
-    "autoload":{
+    "autoload":[{
       "component":{
         name: "happner-resources",
         config: {
@@ -15,6 +14,6 @@ module.exports = {
           } 
         }
       }
-    }
+    }]
   }
 }
