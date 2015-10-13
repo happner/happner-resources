@@ -22,3 +22,5 @@ bower/ionicons/fonts/ionicons.ttf
 bower/font-awesome/fonts/fontawesome-webfont.woff
 bower/ionicons/fonts/ionicons.woff
 bower/font-awesome/fonts/fontawesome-webfont.ttf
+bower/angular-sanitize/angular-sanitize.min.js
+
