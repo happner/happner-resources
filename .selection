@@ -23,4 +23,13 @@ bower/font-awesome/fonts/fontawesome-webfont.woff
 bower/ionicons/fonts/ionicons.woff
 bower/font-awesome/fonts/fontawesome-webfont.ttf
 bower/angular-sanitize/angular-sanitize.min.js
-
+bower/bootstrap/dist/js/bootstrap.min.js
+bower/bootstrap/dist/css/bootstrap.min.css
+bower/bootstrap/dist/css/bootstrap.css.map
+bower/bootstrap/dist/css/bootstrap-theme.min.css
+bower/bootstrap/dist/css/bootstrap-theme.css.map
+bower/bootstrap/dist/fonts/glyphicons-halflings-regular.eot
+bower/bootstrap/dist/fonts/glyphicons-halflings-regular.svg
+bower/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf
+bower/bootstrap/dist/fonts/glyphicons-halflings-regular.woff
+bower/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2
